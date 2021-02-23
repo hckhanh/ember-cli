@@ -105,7 +105,7 @@
     "quick-temp": "0.1.5",
     "resolve": "^1.1.6",
     "rsvp": "^3.0.17",
-    "sane": "^1.1.1",
+    "sane": "^4.0.2",
     "semver": "^5.1.1",
     "silent-error": "^1.0.0",
     "symlink-or-copy": "^1.0.1",
